@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrischk&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrischk&theme=radical&exclude_repo=CEHv10StudyGuide,gradle-git,hacker-blog,Azurite" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=afrischk&show_icons=true&theme=radical" />
 
 <!--
