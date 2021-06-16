@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afrischk&theme=gruvbox)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=afrischk&show_icons=true&theme=gruvbox)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrischk&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=afrischk&show_icons=true&theme=radical" />
 
 <!--
 **afrischk/afrischk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
