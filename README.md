@@ -2,21 +2,20 @@
 
 I am Adrian. I ❤️ code.
 
-- 👷🏻 I’m currently working on my hacking career.
-- 👨🏻 I’m currently learning how to hack a system.
-- Just check out my <a href="#">CV</a>!
+- I’m currently working on my hacking career.
+- I’m currently learning how to hack a system.
 
-### 🤓 Skills
+### Skills
 
 tbd
 
-### 👨🏻‍💻 Programming languages
+### Programming languages
 
 <p>
-  <img alt="C" src="https://img.shields.io/badge/C-lightgrey?style=for-the-badge&logo=c&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C++-lightgrey?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img alt="C#" src="https://img.shields.io/badge/CSharp-green?style=for-the-badge&logo=csharp&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=python&logoColor=lightgrey">
+  <img alt="C" src="icons/c-original.svg">
+  <img alt="C++" src="icons/cplusplus-original.svg">
+  <img alt="C#" src="icons/csharp-original.svg">
+  <img alt="Java" src="icons/java-original.svg">
   <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=java&logoColor=yellow">
 <p>
   
