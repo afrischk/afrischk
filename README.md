@@ -12,14 +12,14 @@ tbd
 ### Programming languages
 
 <p>
-  <img alt="C" src="icons/c-original.svg">
-  <img alt="C++" src="icons/cplusplus-original.svg">
-  <img alt="C#" src="icons/csharp-original.svg">
-  <img alt="Java" src="icons/java-original.svg">
-  <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=java&logoColor=yellow">
+  <img alt="C" width="64" src="icons/c-original.svg">
+  <img alt="C++" width="64" src="icons/cplusplus-original.svg">
+  <img alt="C#" width="64" src="icons/csharp-original.svg">
+  <img alt="Java" width="64" src="icons/java-original.svg">
+  <img alt="Python" width="64" src="icons/python-original.svg">
 <p>
   
-### 📊 Stats
+### Stats
 
 I am not particularly active on Github...
   
