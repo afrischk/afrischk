@@ -1,6 +1,6 @@
-### Hi there 👋
+<img alt="banner" align="center" src="banner.png">
 
-I am Adrian. I ❤️ code.
+### Hi there :wave:
 
 - I’m currently working on my hacking career.
 - I’m currently learning how to hack a system.
@@ -9,7 +9,7 @@ I am Adrian. I ❤️ code.
 
 tbd
 
-### Programming languages
+### :computer: Tech Stack
 
 <p>
   <img alt="C" width="64" src="icons/c-original.svg">
@@ -19,7 +19,7 @@ tbd
   <img alt="Python" width="64" src="icons/python-original.svg">
 <p>
   
-### Stats
+### :bar_chart: Stats
 
 I am not particularly active on Github...
   
