@@ -27,7 +27,7 @@ Hi, I'm Adrian. I'm holding a Master's degree in Bioinformatics and Genome Resea
     <img alt="Redis" width="64" src="icons/redis-original.svg">
     <img alt="Angular" width="64" src="icons/angularjs-original.svg">
     <img alt="Gradle" width="64" src="icons/gradle-plain.svg">
-    <img alt="JavaScript" width="64" rc="icons/javascript-original.svg">
+    <img alt="JavaScript" width="64" src="icons/javascript-original.svg">
     <img alt="HTML5" width="64" src="icons/html5-original.svg">
     <img alt="Haskell" width="64" src="icons/haskell-original.svg">
     <img alt="Vim" width="64" src="icons/vim-original.svg">
