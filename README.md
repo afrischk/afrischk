@@ -1,4 +1,4 @@
-<link href="style.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
 <div align="center">
   <img alt="banner" src="banner.png">
 </div>
@@ -12,8 +12,6 @@ Hi, I'm Adrian. I'm holding a Master's degree in Bioinformatics and Genome Resea
 </h3>
 <br/>
 <div align="center">
-  <div>
-    ![C](/icons/c-original.svg#icon)
     <img alt="C" width="64" src="icons/c-original.svg">
     <img alt="C++" width="64" src="icons/cplusplus-original.svg">
     <img alt="C#" width="64" src="icons/csharp-original.svg">
@@ -45,3 +43,6 @@ Hi, I'm Adrian. I'm holding a Master's degree in Bioinformatics and Genome Resea
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrischk&theme=radical" />
 </div>
+
+![C](icons/c-original.svg#icon)
+![C++](icons/cplusplus-original.svg#icon)
