@@ -6,9 +6,9 @@
 Hi, I'm Adrian. I'm holding a Master's degree in Bioinformatics and Genome Research and started my software development carreer back in 2013. My main experience lies in the field of Cloud Computing and software development with C#, Java and Python. I'm also very interested in software security. I love playing soccer and brewing my own beer. Cheers!
 </div>
 <br/>
-<div align="center">
-### :computer: Tech Stack
-</div>
+<h3 align="center">
+:computer: Tech Stack
+</h3>
 <br/>
 <div align="center">
   <div>
@@ -45,13 +45,13 @@ Hi, I'm Adrian. I'm holding a Master's degree in Bioinformatics and Genome Resea
   </div>
 </div>
 <br/>
-<div align="center">
-### :bar_chart: Stats
-</div>
+<h3 align="center">
+:bar_chart: Stats
+</h3>
 <br/>
-<div align="center">
-### Blog
-</div>
+<h3 align="center">
+Blog
+</h3>
 <br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrischk&theme=radical" />
