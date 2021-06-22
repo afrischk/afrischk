@@ -1,3 +1,4 @@
+<link href="style.css" rel="stylesheet">
 <div align="center">
   <img alt="banner" src="banner.png">
 </div>
@@ -12,6 +13,7 @@ Hi, I'm Adrian. I'm holding a Master's degree in Bioinformatics and Genome Resea
 <br/>
 <div align="center">
   <div>
+    ![C](/icons/c-original.svg#icon)
     <img alt="C" width="64" src="icons/c-original.svg">
     <img alt="C++" width="64" src="icons/cplusplus-original.svg">
     <img alt="C#" width="64" src="icons/csharp-original.svg">
