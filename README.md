@@ -12,7 +12,7 @@ Hi, I'm Adrian. I'm holding a Master's degree in Bioinformatics and Genome Resea
 <br/>
 <div align="center">
   <div>
-    <img alt="C" style="width: 64px; max-width: 64px" src="icons/c-original.svg">
+    <img alt="C" style="width: 64px" src="icons/c-original.svg">
     <img alt="C++" style="width: 64px; max-width: 64px" src="icons/cplusplus-original.svg">
     <img alt="C#" style="width: 64px; max-width: 64px" src="icons/csharp-original.svg">
     <img alt="Java" style="width: 64px; max-width: 64px" src="icons/java-original.svg">
