@@ -49,10 +49,6 @@ Hi, I'm Adrian. I'm holding a Master's degree in Bioinformatics and Genome Resea
 :bar_chart: Stats
 </h3>
 <br/>
-<h3 align="center">
-Blog
-</h3>
-<br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrischk&theme=radical" />
 </div>
