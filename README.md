@@ -12,7 +12,7 @@ Hi, I'm Adrian. I'm holding a Master's degree in Bioinformatics and Genome Resea
 <br/>
 <div align="center">
   <div>
-    <img alt="C" style="width: 64px" src="icons/c-original.svg">
+    <img alt="C" width="64" src="icons/c-original.svg">
     <img alt="C++" style="width: 64px; max-width: 64px" src="icons/cplusplus-original.svg">
     <img alt="C#" style="width: 64px; max-width: 64px" src="icons/csharp-original.svg">
     <img alt="Java" style="width: 64px; max-width: 64px" src="icons/java-original.svg">
@@ -25,7 +25,7 @@ Hi, I'm Adrian. I'm holding a Master's degree in Bioinformatics and Genome Resea
     <img alt="Spring" style="width: 64px; max-width: 64px" src="icons/spring-original.svg">
     <img alt="Git" style="width: 64px; max-width: 64px" src="icons/git-original.svg">
     <img alt="Redis" style="width: 64px; max-width: 64px" src="icons/redis-original.svg">
-    <img alt="Angular" style="width: 64px; max-width: 64px" src="icons/angularjs-original.svg">
+    <img alt="Angular" src="icons/angularjs-original.svg">
     <img alt="Gradle" style="width: 64px; max-width: 64px" src="icons/gradle-plain.svg">
     <img alt="JavaScript" style="width: 64px; max-width: 64px" src="icons/javascript-original.svg">
     <img alt="HTML5" style="width: 64px; max-width: 64px" src="icons/html5-original.svg">
