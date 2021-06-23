@@ -44,8 +44,10 @@ Hi, I'm Adrian. I'm holding a Master's degree in Bioinformatics and Genome Resea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrischk&theme=radical" />
 </div>
 
-### :book: Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [How To Become An Ethical Hacker](/How-To-Become-An-Ethical-Hacker)
-- [Hello World](/Hello-World)
-<!-- BLOG-POST-LIST:END -->
+### Blog posts
+<!-- BLOGPOST:START -->
+<!-- BLOGPOST:END -->
+
+### StackOverflow activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
