@@ -14,4 +14,4 @@ jobs:
           comment_tag_name: "BLOGPOST"
           commit_message: "Update readme with the latest blog posts"
           feed_list: "https://afrischk.github.io/atom.xml"
-          template: [$title](https://afrischk.github.io$url)
+          template: "[$title](https://afrischk.github.io$url)"
