@@ -46,7 +46,8 @@ Hi, I'm Adrian. I'm holding a Master's degree in Bioinformatics and Genome Resea
 
 ### Blog posts
 <!-- BLOGPOST:START -->
-<!-- BLOGPOST:END -->
+- [How To Become An Ethical Hacker](https://afrischk.github.io/How-To-Become-An-Ethical-Hacker)
+- [Hello World](https://afrischk.github.io/Hello-World)<!-- BLOGPOST:END -->
 
 ### StackOverflow activity
 <!-- STACKOVERFLOW:START -->
