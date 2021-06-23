@@ -43,3 +43,6 @@ Hi, I'm Adrian. I'm holding a Master's degree in Bioinformatics and Genome Resea
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrischk&theme=radical" />
 </div>
+:book: Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
