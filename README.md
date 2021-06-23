@@ -45,4 +45,6 @@ Hi, I'm Adrian. I'm holding a Master's degree in Bioinformatics and Genome Resea
 </div>
 :book: Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Become An Ethical Hacker](/How-To-Become-An-Ethical-Hacker)
+- [Hello World](/Hello-World)
 <!-- BLOG-POST-LIST:END -->
