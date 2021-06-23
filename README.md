@@ -55,6 +55,6 @@ def about_me() -> Vitae:
 - [Edge extension: Validation failed for extension manifest](https://stackoverflow.com/questions/55124566/edge-extension-validation-failed-for-extension-manifest)
 <!-- STACKOVERFLOW:END -->
 
-### :bar_chart: Github Stats
+### :bar_chart: Github stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrischk&theme=radical" />
