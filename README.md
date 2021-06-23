@@ -7,10 +7,10 @@
 def about_me() -> Vitae:
   name = "Adrian"
   education = "M.Sc. in Bioinformatics and Genome Research"
-  carreer = "Softare Developer since 2013"
+  carreer = "Software developer since 2013"
   main_experience = "Cloud Computing and software development with C#, Java and Python"
-  interests = "Software secruity & mircoservice architecture"
-  hobbies = "Playing soccer and bewing my own beer"
+  interests = "Software security & mircoservice architecture"
+  hobbies = "Playing soccer and brewing my own beer"
   return Vitae(name, education, carreer, main_experience, interests, hobbies)
 ```
 
