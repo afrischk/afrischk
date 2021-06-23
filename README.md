@@ -49,7 +49,7 @@ def about_me() -> Vitae:
 ### :bookmark_tabs: StackOverflow activity
 <!-- STACKOVERFLOW:START -->
 - [How to send a 'conversationUpdate' to Microsoft Teams from bot manually?](https://stackoverflow.com/questions/57304988/how-to-send-a-conversationupdate-to-microsoft-teams-from-bot-manually)
-- [Answer by afrischk for Update docker image in Azure Container Instances](https://stackoverflow.com/questions/49796968/update-docker-image-in-azure-container-instances/53240278#53240278)
+- [Answer by afrischk for Update docker image in Azure Container Instances](https://stackoverflow.com/questions/49796968/update-docker-image-in-azure-container-instances/56440278#56440278)
 - [How to Shim System.Security.Principal.WindowsIdentiy in .NET461?](https://stackoverflow.com/questions/55627066/how-to-shim-system-security-principal-windowsidentiy-in-net461)
 - [Answer by afrischk for Edge extension: Validation failed for extension manifest](https://stackoverflow.com/questions/55124566/edge-extension-validation-failed-for-extension-manifest/55449580#55449580)
 - [Edge extension: Validation failed for extension manifest](https://stackoverflow.com/questions/55124566/edge-extension-validation-failed-for-extension-manifest)
