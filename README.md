@@ -43,6 +43,7 @@ def about_me() -> Vitae:
 
 ### :newspaper: Blog posts
 <!-- BLOGPOST:START -->
+- [I Passed CEH](https://afrischk.github.io/I-Passed-CEH)
 - [How To Become An Ethical Hacker](https://afrischk.github.io/How-To-Become-An-Ethical-Hacker)
 - [Hello World](https://afrischk.github.io/Hello-World)<!-- BLOGPOST:END -->
 
