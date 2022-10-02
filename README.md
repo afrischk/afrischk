@@ -41,6 +41,10 @@ def about_me() -> Vitae:
   <img alt="CSS3" width="32" height="32" src="icons/css3-original.svg">
 </div>
 
+### :trophy: Badges
+
+[![@afrischk Holopin board](https://holopin.io/api/user/board?user=0x00_whiz)](https://holopin.io/@0x00_whiz)
+
 ### :newspaper: Blog posts
 <!-- BLOGPOST:START -->
 - [Cryptopals Challenges &lpar;XOR&rpar;](https://afrischk.github.io/Cryptopals-Challenges-Base-Set-1-XOR)
