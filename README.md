@@ -47,6 +47,7 @@ def about_me() -> Vitae:
 
 ### :newspaper: Blog posts
 <!-- BLOGPOST:START -->
+- [Distroless Python Images With Docker](https://afrischk.github.io/distroless-python-310)
 - [Cryptopals Challenges &lpar;XOR&rpar;](https://afrischk.github.io/Cryptopals-Challenges-Base-Set-1-XOR)
 - [I Passed CEH](https://afrischk.github.io/I-Passed-CEH)
 - [How To Become An Ethical Hacker](https://afrischk.github.io/How-To-Become-An-Ethical-Hacker)
