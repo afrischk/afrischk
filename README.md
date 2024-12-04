@@ -18,32 +18,24 @@ def about_me() -> Vitae:
 
 <div>
   <img alt="C" width="32" height="32" src="icons/c-original.svg">
-  <img alt="C++" width="32" height="32" src="icons/cplusplus-original.svg">
   <img alt="C#" width="32" height="32" src="icons/csharp-original.svg">
   <img alt="Java" width="32" height="32" src="icons/java-original.svg">
   <img alt="Python" width="32" height="32" src="icons/python-original.svg">
-  <img alt="Azure" width="32" height="32" src="icons/azure.svg">
   <img alt="Docker" width="32" height="32" src="icons/docker-original.svg">
-  <img alt=".NetCore" width="32" height="32" src="icons/dotnetcore-original.svg">
-  <img alt=".Net" width="32" height="32" src="icons/dot-net-original.svg">
   <img alt="Kubernetes" width="32" height="32" src="icons/kubernetes-plain.svg">
   <img alt="Spring" width="32" height="32" src="icons/spring-original.svg">
   <img alt="Git" width="32" height="32" src="icons/git-original.svg">
-  <img alt="Redis" width="32" height="32" src="icons/redis-original.svg">
-  <img alt="Angular" width="32" height="32" src="icons/angularjs-original.svg">
-  <img alt="Gradle" width="32" height="32" src="icons/gradle-plain.svg">
-  <img alt="JavaScript" width="32" height="32" src="icons/javascript-original.svg">
-  <img alt="HTML5" width="32" height="32" src="icons/html5-original.svg">
-  <img alt="Haskell" width="32" height="32" src="icons/haskell-original.svg">
-  <img alt="Vim" width="32" height="32" src="icons/vim-original.svg">
+  <img alt="Neovim" width="32" height="32" src="icons/neovim.svg">
   <img alt="TypeScript" width="32" height="32" src="icons/typescript-original.svg">
   <img alt="Bash" width="32" height="32" src="icons/bash-original.svg">
-  <img alt="CSS3" width="32" height="32" src="icons/css3-original.svg">
+  <img alt="Rust" width="32" height="32" src="icons/rust.svg">
 </div>
 
 ### :trophy: Badges
 
 [![@afrischk Holopin board](https://holopin.io/api/user/board?user=0x00_whiz)](https://holopin.io/@0x00_whiz)
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9e5c8c0d-462d-4516-9bcf-c6e27d62f3ee" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### :newspaper: Blog posts
 <!-- BLOGPOST:START -->
