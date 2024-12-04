@@ -36,7 +36,7 @@ def about_me() -> Vitae:
 [![@afrischk Holopin board](https://holopin.io/api/user/board?user=0x00_whiz)](https://holopin.io/@0x00_whiz)
 
 <div>
-  <img alt="lfd420" width="32" height="32" src="badges/lfd420.png">
+  <img alt="lfd420" width="204" height="204" src="badges/lfd420.png">
 </div>
 
 ### :newspaper: Blog posts
