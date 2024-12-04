@@ -23,7 +23,6 @@ def about_me() -> Vitae:
   <img alt="Python" width="32" height="32" src="icons/python-original.svg">
   <img alt="Docker" width="32" height="32" src="icons/docker-original.svg">
   <img alt="Kubernetes" width="32" height="32" src="icons/kubernetes-plain.svg">
-  <img alt="Spring" width="32" height="32" src="icons/spring-original.svg">
   <img alt="Git" width="32" height="32" src="icons/git-original.svg">
   <img alt="Neovim" width="32" height="32" src="icons/neovim.svg">
   <img alt="TypeScript" width="32" height="32" src="icons/typescript-original.svg">
