@@ -35,7 +35,9 @@ def about_me() -> Vitae:
 
 [![@afrischk Holopin board](https://holopin.io/api/user/board?user=0x00_whiz)](https://holopin.io/@0x00_whiz)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9e5c8c0d-462d-4516-9bcf-c6e27d62f3ee" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div>
+  <img alt="lfd420" width="32" height="32" src="badges/lfd420.png">
+</div>
 
 ### :newspaper: Blog posts
 <!-- BLOGPOST:START -->
